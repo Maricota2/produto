@@ -1,0 +1,18 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "main": "maps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "start": "^5.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
